@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 299f7ecee78d54a45bf16ec07ca2fbb8, type: 3}
+  m_Name: Ong6_Dialogue Container
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueContainer
+  line:
+  - "Ch\xE0o m\xE0y!"
+  - "Th\u1EA5y c\xE1i r\u01B0\u01A1ng \u0111\u1EB1ng kia kh\xF4ng? "
+  - "K\u1EBF b\xEAn c\xE1i c\xE2y \u0111\xF3."
+  - "M\u1EDF n\xF3 \u0111i c\xF3 b\u1EA5t ng\u1EDD \u0111\u1EA5y!"
+  actor: {fileID: 11400000, guid: fd3742e0de780b6499a258ff6eae4ffc, type: 2}

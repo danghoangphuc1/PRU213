@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 299f7ecee78d54a45bf16ec07ca2fbb8, type: 3}
+  m_Name: Ong5_Dialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueContainer
+  line:
+  - "Tao l\xE0 \xD4ng 5, anh em song sinh c\u1EE7a th\u1EB1ng 6"
+  - "\u0110\u1EEBng m\u1EDF r\u01B0\u01A1ng, trong \u0111\xF3 kh\xF4ng c\xF3 g\xEC
+    \u0111\xE2u!"
+  - "N\u1EBFu c\u1EA7n mua \u0111\u1ED3 h\xE3y \u0111\u1EBFn ti\u1EC7m t\u1EA1p h\xF3a
+    c\u1EE7a b\xE0 T\xE1m, s\u1EBD c\xF3 \xEDch \u0111\u1EA5y! "
+  - "H\u1EB9n g\u1EB7p l\u1EA1i!"
+  actor: {fileID: 11400000, guid: ddbdef1c4888abe4db929deda86f3eec, type: 2}

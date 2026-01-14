@@ -1,0 +1,69 @@
+﻿using System;
+using UnityEngine;
+using UnityEngine.TextCore.Text;
+
+public class PlayerInteractController : MonoBehaviour
+{
+    Player characterController;
+    Rigidbody2D rb;
+
+    [SerializeField] float offsetDistance = 1f;
+    [SerializeField] float sizeOfInteractableArea = 1.2f;
+
+    Character character;
+
+    [SerializeReference] HighLihgtController highlightController; 
+
+    private void Awake()
+    {
+        characterController = GetComponent<Player>();
+        rb = GetComponent<Rigidbody2D>();
+        character = GetComponent<Character>();
+    }
+
+    private void Update()
+    {
+        Check();
+
+        if (Input.GetMouseButtonDown(0))
+        {
+            Interact();
+        }
+    }
+
+    private void Check()
+    {
+        Vector2 position = rb.position + characterController.lastMotionVector * offsetDistance;
+
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(position, sizeOfInteractableArea);
+
+        foreach (Collider2D c in colliders)
+        {
+            Interactable hit = c.GetComponent<Interactable>();
+            if (hit != null)
+            {
+                highlightController.Highlight(hit.gameObject);
+                return;
+            }
+        }
+
+        highlightController.Hide();
+    }
+
+    private void Interact()
+    {
+        Vector2 position = rb.position + characterController.lastMotionVector * offsetDistance;
+
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(position, sizeOfInteractableArea);
+        foreach (Collider2D c in colliders)
+        {
+            Interactable hit = c.GetComponent<Interactable>();
+            if (hit != null)
+            {
+                hit.Interact(character);
+                break;
+            }
+        }
+    }
+
+}

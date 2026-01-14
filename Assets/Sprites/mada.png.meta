@@ -1,0 +1,1354 @@
+fileFormatVersion: 2
+guid: 7158ef18431d8284b8840d1b20a9defe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3552872725295056061
+    second: mada_0
+  - first:
+      213: -6218189722238129935
+    second: mada_1
+  - first:
+      213: -8143009216778189086
+    second: mada_2
+  - first:
+      213: -8602051911194557409
+    second: mada_3
+  - first:
+      213: 7887952824648003309
+    second: mada_4
+  - first:
+      213: -1955629660829371705
+    second: mada_5
+  - first:
+      213: -6159775769590429527
+    second: mada_6
+  - first:
+      213: 59536485395526658
+    second: mada_7
+  - first:
+      213: -7081589786421339443
+    second: mada_8
+  - first:
+      213: -6797229687627921911
+    second: mada_9
+  - first:
+      213: 8489344102840930180
+    second: mada_10
+  - first:
+      213: -1181239028603004717
+    second: mada_11
+  - first:
+      213: -4598702746428713534
+    second: mada_12
+  - first:
+      213: 3318124517797116310
+    second: mada_13
+  - first:
+      213: -4066276431693338423
+    second: mada_14
+  - first:
+      213: -8278296103339051165
+    second: mada_15
+  - first:
+      213: 8520740194529067028
+    second: mada_16
+  - first:
+      213: 7812284579188740517
+    second: mada_17
+  - first:
+      213: -4865621247893438571
+    second: mada_18
+  - first:
+      213: 207858354007978275
+    second: mada_19
+  - first:
+      213: -6794321242060371295
+    second: mada_20
+  - first:
+      213: 87930437685979978
+    second: mada_21
+  - first:
+      213: -6377034725262637213
+    second: mada_22
+  - first:
+      213: 1110161436567094372
+    second: mada_23
+  - first:
+      213: 2187798431868711198
+    second: mada_24
+  - first:
+      213: 5322865971121367520
+    second: mada_25
+  - first:
+      213: 1235218826781656668
+    second: mada_26
+  - first:
+      213: -8771487662981083366
+    second: mada_27
+  - first:
+      213: 3948104814864243935
+    second: mada_28
+  - first:
+      213: -5789779998389488255
+    second: mada_29
+  - first:
+      213: -542955884962026518
+    second: mada_30
+  - first:
+      213: 5824487576290080408
+    second: mada_31
+  - first:
+      213: -5797555605880418594
+    second: mada_32
+  - first:
+      213: -2486570000727876276
+    second: mada_33
+  - first:
+      213: -4468425431999502097
+    second: mada_34
+  - first:
+      213: -946605407857415039
+    second: mada_35
+  - first:
+      213: -2871536664754558249
+    second: mada_36
+  - first:
+      213: 2553331978282217315
+    second: mada_37
+  - first:
+      213: -7709294237215333894
+    second: mada_38
+  - first:
+      213: -1667634189102470000
+    second: mada_39
+  - first:
+      213: -8333404044782384988
+    second: mada_40
+  - first:
+      213: 3657002519062557922
+    second: mada_41
+  - first:
+      213: -9182691983867075856
+    second: mada_42
+  - first:
+      213: 2137970480202696520
+    second: mada_43
+  - first:
+      213: 2270258874713454359
+    second: mada_44
+  - first:
+      213: -4297349774739814736
+    second: mada_45
+  - first:
+      213: -3127144444624191425
+    second: mada_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mada_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 866
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b3d9c8419a1bec0800000000000000
+      internalID: -3552872725295056061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 866
+        width: 63
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e20c946d84b9a0800000000000000
+      internalID: -6218189722238129935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 866
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e64437c2483efe80800000000000000
+      internalID: -8143009216778189086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_3
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 871
+        width: 61
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1447c5cc5f5f9880800000000000000
+      internalID: -8602051911194557409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 867
+        width: 61
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeee264d43a77d60800000000000000
+      internalID: 7887952824648003309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_5
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 869
+        width: 57
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c23c025f253cd4e0800000000000000
+      internalID: -1955629660829371705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_6
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 871
+        width: 60
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8018dc294148aa0800000000000000
+      internalID: -6159775769590429527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_7
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 870
+        width: 60
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204fc273e1483d000800000000000000
+      internalID: 59536485395526658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 697
+        width: 62
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca525feb9329bd90800000000000000
+      internalID: -7081589786421339443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 696
+        width: 61
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906c234cc936ba1a0800000000000000
+      internalID: -6797229687627921911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 696
+        width: 62
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f04e9ab7530d570800000000000000
+      internalID: 8489344102840930180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 702
+        width: 62
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d85a49ac556b9fe0800000000000000
+      internalID: -1181239028603004717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_12
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 702
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5d08397302e20c0800000000000000
+      internalID: -4598702746428713534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 703
+        width: 65
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699bfc33ba85c0e20800000000000000
+      internalID: 3318124517797116310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_14
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 702
+        width: 67
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c82062212fa197c0800000000000000
+      internalID: -4066276431693338423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 702
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367b9f6ed859d1d80800000000000000
+      internalID: -8278296103339051165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 528
+        width: 62
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4104c46ef00cf3670800000000000000
+      internalID: 8520740194529067028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 527
+        width: 61
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a19ecafe6fca6c60800000000000000
+      internalID: 7812284579188740517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 529
+        width: 60
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ff7b31147d97cb0800000000000000
+      internalID: -4865621247893438571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 534
+        width: 62
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3213e3a521672e200800000000000000
+      internalID: 207858354007978275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_20
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 531
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac91504d8b5b1a0800000000000000
+      internalID: -6794321242060371295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_21
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 530
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba7376444683100800000000000000
+      internalID: 87930437685979978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_22
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 531
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367c36054b83087a0800000000000000
+      internalID: -6377034725262637213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_23
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 533
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4644be5d1f5186f00800000000000000
+      internalID: 1110161436567094372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 364
+        width: 93
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11f0b3151f9c5e10800000000000000
+      internalID: 2187798431868711198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 358
+        width: 92
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e924b3266e9ed940800000000000000
+      internalID: 5322865971121367520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 356
+        width: 94
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56023e7af0642110800000000000000
+      internalID: 1235218826781656668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_27
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 381
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f8a40a17a654680800000000000000
+      internalID: -8771487662981083366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_28
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 361
+        width: 114
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc1ef1496c7ac630800000000000000
+      internalID: 3948104814864243935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_29
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 361
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 185355c54c196afa0800000000000000
+      internalID: -5789779998389488255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_30
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 354
+        width: 112
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb6124df780778f0800000000000000
+      internalID: -542955884962026518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_31
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 359
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8963277579cb4d050800000000000000
+      internalID: 5824487576290080408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 196
+        width: 64
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede4ce9a4e1fa8fa0800000000000000
+      internalID: -5797555605880418594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_33
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 187
+        width: 68
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dd87d32cded7dd0800000000000000
+      internalID: -2486570000727876276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_34
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 191
+        width: 64
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8295c8eb6fcf1c0800000000000000
+      internalID: -4468425431999502097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 198
+        width: 63
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ce13a956bfcd2f0800000000000000
+      internalID: -946605407857415039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 192
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6bc11e904628d0800000000000000
+      internalID: -2871536664754558249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_37
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 192
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f2827f7e14f6320800000000000000
+      internalID: 2553331978282217315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_38
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 191
+        width: 99
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af160d1acb5130590800000000000000
+      internalID: -7709294237215333894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_39
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 192
+        width: 100
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c204f5a8f5bd8e0800000000000000
+      internalID: -1667634189102470000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 27
+        width: 64
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a841fc6c2dc95c80800000000000000
+      internalID: -8333404044782384988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_41
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 18
+        width: 63
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4be6b5a6840c230800000000000000
+      internalID: 3657002519062557922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_42
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 14
+        width: 63
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2a6cbea46809080800000000000000
+      internalID: -9182691983867075856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 26
+        width: 62
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 847c0c403d89bad10800000000000000
+      internalID: 2137970480202696520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_44
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 25
+        width: 102
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717397f0b64918f10800000000000000
+      internalID: 2270258874713454359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_45
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 25
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b64701f52fbc54c0800000000000000
+      internalID: -4297349774739814736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mada_46
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 25
+        width: 101
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30c6d822b62a94d0800000000000000
+      internalID: -3127144444624191425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 2a471b057afda9346be200bbeec21251
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      mada_0: -3552872725295056061
+      mada_1: -6218189722238129935
+      mada_10: 8489344102840930180
+      mada_11: -1181239028603004717
+      mada_12: -4598702746428713534
+      mada_13: 3318124517797116310
+      mada_14: -4066276431693338423
+      mada_15: -8278296103339051165
+      mada_16: 8520740194529067028
+      mada_17: 7812284579188740517
+      mada_18: -4865621247893438571
+      mada_19: 207858354007978275
+      mada_2: -8143009216778189086
+      mada_20: -6794321242060371295
+      mada_21: 87930437685979978
+      mada_22: -6377034725262637213
+      mada_23: 1110161436567094372
+      mada_24: 2187798431868711198
+      mada_25: 5322865971121367520
+      mada_26: 1235218826781656668
+      mada_27: -8771487662981083366
+      mada_28: 3948104814864243935
+      mada_29: -5789779998389488255
+      mada_3: -8602051911194557409
+      mada_30: -542955884962026518
+      mada_31: 5824487576290080408
+      mada_32: -5797555605880418594
+      mada_33: -2486570000727876276
+      mada_34: -4468425431999502097
+      mada_35: -946605407857415039
+      mada_36: -2871536664754558249
+      mada_37: 2553331978282217315
+      mada_38: -7709294237215333894
+      mada_39: -1667634189102470000
+      mada_4: 7887952824648003309
+      mada_40: -8333404044782384988
+      mada_41: 3657002519062557922
+      mada_42: -9182691983867075856
+      mada_43: 2137970480202696520
+      mada_44: 2270258874713454359
+      mada_45: -4297349774739814736
+      mada_46: -3127144444624191425
+      mada_5: -1955629660829371705
+      mada_6: -6159775769590429527
+      mada_7: 59536485395526658
+      mada_8: -7081589786421339443
+      mada_9: -6797229687627921911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
