@@ -7,6 +7,10 @@
 [Mm]emoryCaptures/
 UserSettings/
 
+.vs/
+Assets/_Recovery/
+
+
 *.csproj
 *.unityproj
 *.sln
@@ -28,6 +32,3 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
-
-.vs/
-Assets/_Recovery/
