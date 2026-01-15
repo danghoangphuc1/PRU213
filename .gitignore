@@ -28,3 +28,6 @@ sysinfo.txt
 *.apk
 *.aab
 *.unitypackage
+
+.vs/
+Assets/_Recovery/
