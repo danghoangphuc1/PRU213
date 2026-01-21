@@ -1,64 +1,86 @@
-using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.EventSystems;
 
 public class ItemPanel : MonoBehaviour
 {
     public ItemContainer inventory;
-    public List<InventoryButton> buttons;
+    public List<ItemButtonBase> buttons;
 
-    private void Start()
+    bool _initialized;
+
+    protected virtual void Start()
     {
         Init();
+        _initialized = true;
     }
 
+    protected virtual void OnEnable()
+    {
+        if (!_initialized) return;
+        Refresh();
+    }
     public void Init()
     {
+        if (inventory == null || inventory.slots == null || buttons == null)
+        {
+            Debug.LogError($"{name}: Missing inventory/slots/buttons.");
+            return;
+        }
+
         SetIndex();
         Show();
-
     }
 
-    private void OnEnable()
-    {
-        Show();
-    }
+    //public void Init()
+    //{
+    //    if (inventory == null || inventory.slots == null || buttons == null)
+    //    {
+    //        Debug.LogError($"{name}: Missing inventory/slots/buttons.");
+    //        return;
+    //    }
 
-    private void SetIndex()
+    //    int n = Mathf.Min(inventory.slots.Count, buttons.Count);
+    //    for (int i = 0; i < n; i++)
+    //        if (buttons[i] != null) buttons[i].SetIndex(i);
+
+    //    SetIndex();
+    //    Show();
+    //}
+
+    void SetIndex()
     {
-        for (int i = 0; i < inventory.slots.Count && i < buttons.Count; i++)
+        int n = Mathf.Min(inventory.slots.Count, buttons.Count);
+        for (int i = 0; i < n; i++)
         {
+            if (buttons[i] == null)
+            {
+                Debug.LogWarning($"{name}: buttons[{i}] is NULL");
+                continue;
+            }
+
             buttons[i].SetIndex(i);
+            Debug.Log($"{name}: SetIndex {buttons[i].name} => {i}");
         }
+
     }
+
 
     public void Show()
     {
-        for (int i = 0; i < inventory.slots.Count && i < buttons.Count; i++)
+        if (inventory == null || inventory.slots == null || buttons == null) return;
+
+        int n = Mathf.Min(inventory.slots.Count, buttons.Count);
+        for (int i = 0; i < n; i++)
         {
-            if (inventory.slots[i].item == null)
-            {
-                buttons[i].Clean();
-            }
-            else
-            {
-                buttons[i].Set(inventory.slots[i]);
-            }
+            var btn = buttons[i];
+            if (btn == null) continue;
+
+            var slot = inventory.slots[i];
+            if (slot == null || slot.item == null) btn.Clean();
+            else btn.Set(slot);
         }
     }
 
-
-    //
-    public void Refresh()
-    {
-        Show();
-    }
-
-    public virtual void OnClick(int id)
-    {
-
-    }
-
+    public void Refresh() => Show();
+    public virtual void OnClick(int id) { }
 }
-

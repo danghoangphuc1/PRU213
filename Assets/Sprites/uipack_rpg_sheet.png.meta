@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c348d8e333a5ef443bd3742ee1d5989e
+guid: 0bf314b81515b4c4881e5f4726231cfe
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 200
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WindowBase
+      name: InventorySlot
       rect:
         serializedVersion: 2
-        x: 0
-        y: 35
-        width: 100
-        height: 101
+        x: 290
+        y: 328
+        width: 45
+        height: 44
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 8, y: 8, z: 8, w: 8}
@@ -135,13 +135,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: InventorySlot
+      name: WindowBase
       rect:
         serializedVersion: 2
-        x: 290
-        y: 328
-        width: 45
-        height: 44
+        x: 0
+        y: 37
+        width: 99
+        height: 99
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 8, y: 8, z: 8, w: 8}
@@ -150,8 +150,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dabb330290d642b418311b58eecf3c52
-      internalID: 857225635
+      spriteID: 9a8ec8d736cc88d4d94cbf8216e70e59
+      internalID: -1093409818
       vertices: []
       indices: 
       edges: []
@@ -160,7 +160,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ed254c228abe0824a9cbe7ec1769a6a9
+    spriteID: fc40b6656d3598f41837df3de1c88b42
     internalID: 0
     vertices: []
     indices: 
@@ -170,10 +170,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries:
       - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":50.0,"y":50.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      InventorySlot: 857225635
-      WindowBase: -6905922259874023411
+      InventorySlot: -6905922259874023411
+      WindowBase: -1093409818
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

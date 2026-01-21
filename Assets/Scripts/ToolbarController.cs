@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using UnityEngine;
 
 public class ToolbarController : MonoBehaviour
@@ -7,6 +7,15 @@ public class ToolbarController : MonoBehaviour
     int selectedTool;
 
     public Action<int> onChange;
+
+    public Item GetItem
+    {
+        get 
+        {
+            return GameManager.instance.toolbarContainer.slots[selectedTool].item;
+        }
+    }
+
 
     private void Update()
     {
@@ -27,10 +36,17 @@ public class ToolbarController : MonoBehaviour
             onChange?.Invoke(selectedTool);
         }
     }
-
-    internal void Set(int id)
+    //chat
+    public void Set(int id)
     {
-        selectedTool = id;
+        selectedTool = Mathf.Clamp(id, 0, toolbarSize - 1);
+        onChange?.Invoke(selectedTool); // để click cũng update highlight giống scroll
     }
+
+
+    //internal void Set(int id)
+    //{
+    //    selectedTool = id;
+    //}
 
 }

@@ -13,20 +13,20 @@ MonoBehaviour:
   m_Name: Inventory
   m_EditorClassIdentifier: Assembly-CSharp::ItemContainer
   slots:
-  - item: {fileID: 0}
-    count: 0
+  - item: {fileID: 11400000, guid: f0bd527360a240448925783eaf42439d, type: 2}
+    count: 164
   - item: {fileID: 11400000, guid: cdc2f03c73aa65a4ab2f3e5d0735e0e9, type: 2}
-    count: 1
+    count: 29
   - item: {fileID: 11400000, guid: 64c3c66fd4b333243b7811a1b29a39b6, type: 2}
     count: 2
   - item: {fileID: 11400000, guid: cdc2f03c73aa65a4ab2f3e5d0735e0e9, type: 2}
     count: 3
   - item: {fileID: 11400000, guid: 64c3c66fd4b333243b7811a1b29a39b6, type: 2}
     count: 4
-  - item: {fileID: 0}
-    count: 0
-  - item: {fileID: 0}
-    count: 0
+  - item: {fileID: 11400000, guid: d1b76ff570f47e740ba37a28483d66b9, type: 2}
+    count: 2
+  - item: {fileID: 11400000, guid: c21ce459b7aea484388bd301f27c5f66, type: 2}
+    count: 1
   - item: {fileID: 0}
     count: 0
   - item: {fileID: 0}

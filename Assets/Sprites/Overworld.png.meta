@@ -938,7 +938,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Overworld_0
+      name: Grass
       rect:
         serializedVersion: 2
         x: 0
@@ -21552,7 +21552,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Overworld_970
+      name: PlowableDirt
       rect:
         serializedVersion: 2
         x: 16
@@ -23835,7 +23835,7 @@ TextureImporter:
       - key: SpriteEditor.SliceOnImport
         value: False
     nameFileIdTable:
-      Overworld_0: -1826585661
+      Grass: -1826585661
       Overworld_1: -2689026045669087484
       Overworld_10: 1829778442542560619
       Overworld_100: -926160643
@@ -24875,7 +24875,6 @@ TextureImporter:
       Overworld_968: 201704628
       Overworld_969: 1670314237
       Overworld_97: 1152526579
-      Overworld_970: 1495726833
       Overworld_971: -72922267
       Overworld_972: 597371892
       Overworld_973: -1782880961
@@ -24907,6 +24906,7 @@ TextureImporter:
       Overworld_997: -1712297067
       Overworld_998: -1215640413
       Overworld_999: -446735542
+      PlowableDirt: 1495726833
       TreeLog: -326678126
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0

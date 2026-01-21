@@ -13,5 +13,7 @@ MonoBehaviour:
   m_Name: Sword
   m_EditorClassIdentifier: Assembly-CSharp::Item
   Name: Sword
-  stackable: 1
+  stackable: 0
   icon: {fileID: 4233378169734846453, guid: de42898ec81906e47aae89e162d092a7, type: 3}
+  onAction: {fileID: 0}
+  isTool: 1

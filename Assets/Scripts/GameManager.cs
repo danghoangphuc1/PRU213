@@ -13,6 +13,9 @@ public class GameManager : MonoBehaviour
 
     public ItemContainer inventoryContainer;
 
+    public ToolbarController toolbarController; //phuc
+    public ItemContainer toolbarContainer;  //phuc
+
     public DialogueSystem dialogueSystem;
 
     public ItemDragAndDropController dragAndDropController;

@@ -38,14 +38,23 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 3527178215
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: World
+    uniqueID: 4285527039
     locked: 0
   - name: Player
     uniqueID: 631711943
     locked: 0
   - name: Equipment
     uniqueID: 495415941
+    locked: 0
+  - name: Marker
+    uniqueID: 3054827175
     locked: 0
   m_RenderingLayers:
   - Default
